@@ -1,0 +1,10 @@
+{
+    "jwtPrivateKey": "8e8362117851dddefb358b480907d8cff2f49d7839b81235c1dae9befe6ee9e8",
+    "role": {
+        "admin": "A0B1C2",
+        "user": "D3E4F5",
+        "supplier": "G6H7I8",
+        "distributor": "J9K0L1",
+        "superUser": "M2N3O4"
+    }
+}
